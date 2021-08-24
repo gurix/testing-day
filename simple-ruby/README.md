@@ -3,7 +3,7 @@ You have to write a small ruby program that analyzes COVID19_ICU_210822.csv.
 
 It should print 
 - the total number of ICU patients
-- the percentage of COVID related patiantes per Kanton
+- the percentage of COVID related patients per Kanton
 
 # Resources
 - Ruby Quickstart: https://www.ruby-lang.org/en/documentation/quickstart/
